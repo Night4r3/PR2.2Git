@@ -1,1 +1,1 @@
-"L�nea Default. Cambiala, Josep" 
+este es el README de Josep
